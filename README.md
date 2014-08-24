@@ -84,7 +84,8 @@ These code books describe the variables, the data and the transformations perfor
 Project implementation
 ------------------------------
 
-Part 1-4: The implementation took into account all four requirements, but not in that specific order.
+Part 1-4: The implementation took into account all four requirements, but not in that specific order.			
+
 --
 
 The following files were read into R
@@ -137,7 +138,8 @@ The data frame was then ordered by first the value “activity”, and second the va
 ---
 
 
-Part 5
+Part 5			
+
 --
 --tidyDataAverage1
 
