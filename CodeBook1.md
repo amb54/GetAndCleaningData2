@@ -112,46 +112,46 @@ tBodyAcc.avg.correlationY,Z
 
 
 
-tGravityAcc.avg.meanX
-tGravityAcc.avg.meanY
-tGravityAcc.avg.meanZ
-tGravityAcc.avg.stdX
-tGravityAcc.avg.stdY
-tGravityAcc.avg.stdZ
-tGravityAcc.avg.madX
-tGravityAcc.avg.madY
-tGravityAcc.avg.madZ
-tGravityAcc.avg.maxX
-tGravityAcc.avg.maxY
-tGravityAcc.avg.maxZ
-tGravityAcc.avg.minX
-tGravityAcc.avg.minY
-tGravityAcc.avg.minZ
-tGravityAcc.avg.sma
-tGravityAcc.avg.energyX
-tGravityAcc.avg.energyY
-tGravityAcc.avg.energyZ
-tGravityAcc.avg.iqrX
-tGravityAcc.avg.iqrY
-tGravityAcc.avg.iqrZ
-tGravityAcc.avg.entropyX
-tGravityAcc.avg.entropyY
-tGravityAcc.avg.entropyZ
-tGravityAcc.avg.arCoeffX,1
-tGravityAcc.avg.arCoeffX,2
-tGravityAcc.avg.arCoeffX,3
-tGravityAcc.avg.arCoeffX,4
-tGravityAcc.avg.arCoeffY,1
-tGravityAcc.avg.arCoeffY,2
-tGravityAcc.avg.arCoeffY,3
-tGravityAcc.avg.arCoeffY,4
-tGravityAcc.avg.arCoeffZ,1
-tGravityAcc.avg.arCoeffZ,2
-tGravityAcc.avg.arCoeffZ,3
-tGravityAcc.avg.arCoeffZ,4
-tGravityAcc.avg.correlationX,Y
-tGravityAcc.avg.correlationX,Z
-tGravityAcc.avg.correlationY,Z
+tGravityAcc.avg.meanX			
+tGravityAcc.avg.meanY			
+tGravityAcc.avg.meanZ			
+tGravityAcc.avg.stdX			
+tGravityAcc.avg.stdY			
+tGravityAcc.avg.stdZ			
+tGravityAcc.avg.madX			
+tGravityAcc.avg.madY			
+tGravityAcc.avg.madZ			
+tGravityAcc.avg.maxX			
+tGravityAcc.avg.maxY			
+tGravityAcc.avg.maxZ			
+tGravityAcc.avg.minX			
+tGravityAcc.avg.minY			
+tGravityAcc.avg.minZ			
+tGravityAcc.avg.sma			
+tGravityAcc.avg.energyX			
+tGravityAcc.avg.energyY			
+tGravityAcc.avg.energyZ			
+tGravityAcc.avg.iqrX			
+tGravityAcc.avg.iqrY			
+tGravityAcc.avg.iqrZ			
+tGravityAcc.avg.entropyX			
+tGravityAcc.avg.entropyY			
+tGravityAcc.avg.entropyZ			
+tGravityAcc.avg.arCoeffX,1			
+tGravityAcc.avg.arCoeffX,2			
+tGravityAcc.avg.arCoeffX,3			
+tGravityAcc.avg.arCoeffX,4			
+tGravityAcc.avg.arCoeffY,1			
+tGravityAcc.avg.arCoeffY,2			
+tGravityAcc.avg.arCoeffY,3			
+tGravityAcc.avg.arCoeffY,4			
+tGravityAcc.avg.arCoeffZ,1			
+tGravityAcc.avg.arCoeffZ,2			
+tGravityAcc.avg.arCoeffZ,3			
+tGravityAcc.avg.arCoeffZ,4			
+tGravityAcc.avg.correlationX,Y			
+tGravityAcc.avg.correlationX,Z			
+tGravityAcc.avg.correlationY,Z			
 
 
 	tGravityAcc
@@ -163,46 +163,46 @@ tGravityAcc.avg.correlationY,Z
 
 ---
 
-tBodyAccJerk.avg.meanX
-tBodyAccJerk.avg.meanY
-tBodyAccJerk.avg.meanZ
-tBodyAccJerk.avg.stdX
-tBodyAccJerk.avg.stdY
-tBodyAccJerk.avg.stdZ
-tBodyAccJerk.avg.madX
-tBodyAccJerk.avg.madY
-tBodyAccJerk.avg.madZ
-tBodyAccJerk.avg.maxX
-tBodyAccJerk.avg.maxY
-tBodyAccJerk.avg.maxZ
-tBodyAccJerk.avg.minX
-tBodyAccJerk.avg.minY
-tBodyAccJerk.avg.minZ
-tBodyAccJerk.avg.sma
-tBodyAccJerk.avg.energyX
-tBodyAccJerk.avg.energyY
-tBodyAccJerk.avg.energyZ
-tBodyAccJerk.avg.iqrX
-tBodyAccJerk.avg.iqrY
-tBodyAccJerk.avg.iqrZ
-tBodyAccJerk.avg.entropyX
-tBodyAccJerk.avg.entropyY
-tBodyAccJerk.avg.entropyZ
-tBodyAccJerk.avg.arCoeffX,1
-tBodyAccJerk.avg.arCoeffX,2
-tBodyAccJerk.avg.arCoeffX,3
-tBodyAccJerk.avg.arCoeffX,4
-tBodyAccJerk.avg.arCoeffY,1
-tBodyAccJerk.avg.arCoeffY,2
-tBodyAccJerk.avg.arCoeffY,3
-tBodyAccJerk.avg.arCoeffY,4
-tBodyAccJerk.avg.arCoeffZ,1
-tBodyAccJerk.avg.arCoeffZ,2
-tBodyAccJerk.avg.arCoeffZ,3
-tBodyAccJerk.avg.arCoeffZ,4
-tBodyAccJerk.avg.correlationX,Y
-tBodyAccJerk.avg.correlationX,Z
-tBodyAccJerk.avg.correlationY,Z
+tBodyAccJerk.avg.meanX			
+tBodyAccJerk.avg.meanY			
+tBodyAccJerk.avg.meanZ			
+tBodyAccJerk.avg.stdX			
+tBodyAccJerk.avg.stdY			
+tBodyAccJerk.avg.stdZ			
+tBodyAccJerk.avg.madX			
+tBodyAccJerk.avg.madY			
+tBodyAccJerk.avg.madZ			
+tBodyAccJerk.avg.maxX			
+tBodyAccJerk.avg.maxY			
+tBodyAccJerk.avg.maxZ			
+tBodyAccJerk.avg.minX			
+tBodyAccJerk.avg.minY			
+tBodyAccJerk.avg.minZ			
+tBodyAccJerk.avg.sma			
+tBodyAccJerk.avg.energyX			
+tBodyAccJerk.avg.energyY			
+tBodyAccJerk.avg.energyZ			
+tBodyAccJerk.avg.iqrX			
+tBodyAccJerk.avg.iqrY			
+tBodyAccJerk.avg.iqrZ			
+tBodyAccJerk.avg.entropyX			
+tBodyAccJerk.avg.entropyY			
+tBodyAccJerk.avg.entropyZ			
+tBodyAccJerk.avg.arCoeffX,1			
+tBodyAccJerk.avg.arCoeffX,2			
+tBodyAccJerk.avg.arCoeffX,3			
+tBodyAccJerk.avg.arCoeffX,4			
+tBodyAccJerk.avg.arCoeffY,1			
+tBodyAccJerk.avg.arCoeffY,2			
+tBodyAccJerk.avg.arCoeffY,3			
+tBodyAccJerk.avg.arCoeffY,4			
+tBodyAccJerk.avg.arCoeffZ,1			
+tBodyAccJerk.avg.arCoeffZ,2			
+tBodyAccJerk.avg.arCoeffZ,3			
+tBodyAccJerk.avg.arCoeffZ,4			
+tBodyAccJerk.avg.correlationX,Y			
+tBodyAccJerk.avg.correlationX,Z			
+tBodyAccJerk.avg.correlationY,Z			
 
 
 	tBodyAccJerk
@@ -214,46 +214,46 @@ tBodyAccJerk.avg.correlationY,Z
 
 ---
 
-tBodyGyro.avg.meanX
-tBodyGyro.avg.meanY
-tBodyGyro.avg.meanZ
-tBodyGyro.avg.stdX
-tBodyGyro.avg.stdY
-tBodyGyro.avg.stdZ
-tBodyGyro.avg.madX
-tBodyGyro.avg.madY
-tBodyGyro.avg.madZ
-tBodyGyro.avg.maxX
-tBodyGyro.avg.maxY
-tBodyGyro.avg.maxZ
-tBodyGyro.avg.minX
-tBodyGyro.avg.minY
-tBodyGyro.avg.minZ
-tBodyGyro.avg.sma
-tBodyGyro.avg.energyX
-tBodyGyro.avg.energyY
-tBodyGyro.avg.energyZ
-tBodyGyro.avg.iqrX
-tBodyGyro.avg.iqrY
-tBodyGyro.avg.iqrZ
-tBodyGyro.avg.entropyX
-tBodyGyro.avg.entropyY
-tBodyGyro.avg.entropyZ
-tBodyGyro.avg.arCoeffX,1
-tBodyGyro.avg.arCoeffX,2
-tBodyGyro.avg.arCoeffX,3
-tBodyGyro.avg.arCoeffX,4
-tBodyGyro.avg.arCoeffY,1
-tBodyGyro.avg.arCoeffY,2
-tBodyGyro.avg.arCoeffY,3
-tBodyGyro.avg.arCoeffY,4
-tBodyGyro.avg.arCoeffZ,1
-tBodyGyro.avg.arCoeffZ,2
-tBodyGyro.avg.arCoeffZ,3
-tBodyGyro.avg.arCoeffZ,4
-tBodyGyro.avg.correlationX,Y
-tBodyGyro.avg.correlationX,Z
-tBodyGyro.avg.correlationY,Z
+tBodyGyro.avg.meanX			
+tBodyGyro.avg.meanY			
+tBodyGyro.avg.meanZ			
+tBodyGyro.avg.stdX			
+tBodyGyro.avg.stdY			
+tBodyGyro.avg.stdZ			
+tBodyGyro.avg.madX			
+tBodyGyro.avg.madY			
+tBodyGyro.avg.madZ			
+tBodyGyro.avg.maxX			
+tBodyGyro.avg.maxY			
+tBodyGyro.avg.maxZ			
+tBodyGyro.avg.minX			
+tBodyGyro.avg.minY			
+tBodyGyro.avg.minZ			
+tBodyGyro.avg.sma			
+tBodyGyro.avg.energyX			
+tBodyGyro.avg.energyY			
+tBodyGyro.avg.energyZ			
+tBodyGyro.avg.iqrX			
+tBodyGyro.avg.iqrY			
+tBodyGyro.avg.iqrZ			
+tBodyGyro.avg.entropyX			
+tBodyGyro.avg.entropyY			
+tBodyGyro.avg.entropyZ			
+tBodyGyro.avg.arCoeffX,1			
+tBodyGyro.avg.arCoeffX,2			
+tBodyGyro.avg.arCoeffX,3			
+tBodyGyro.avg.arCoeffX,4			
+tBodyGyro.avg.arCoeffY,1			
+tBodyGyro.avg.arCoeffY,2			
+tBodyGyro.avg.arCoeffY,3			
+tBodyGyro.avg.arCoeffY,4			
+tBodyGyro.avg.arCoeffZ,1			
+tBodyGyro.avg.arCoeffZ,2			
+tBodyGyro.avg.arCoeffZ,3			
+tBodyGyro.avg.arCoeffZ,4			
+tBodyGyro.avg.correlationX,Y			
+tBodyGyro.avg.correlationX,Z			
+tBodyGyro.avg.correlationY,Z			
 
 
 	tBodyGyro
@@ -266,46 +266,46 @@ tBodyGyro.avg.correlationY,Z
 ---
 
 
-tBodyGyroJerk.avg.meanX
-tBodyGyroJerk.avg.meanY
-tBodyGyroJerk.avg.meanZ
-tBodyGyroJerk.avg.stdX
-tBodyGyroJerk.avg.stdY
-tBodyGyroJerk.avg.stdZ
-tBodyGyroJerk.avg.madX
-tBodyGyroJerk.avg.madY
-tBodyGyroJerk.avg.madZ
-tBodyGyroJerk.avg.maxX
-tBodyGyroJerk.avg.maxY
-tBodyGyroJerk.avg.maxZ
-tBodyGyroJerk.avg.minX
-tBodyGyroJerk.avg.minY
-tBodyGyroJerk.avg.minZ
-tBodyGyroJerk.avg.sma
-tBodyGyroJerk.avg.energyX
-tBodyGyroJerk.avg.energyY
-tBodyGyroJerk.avg.energyZ
-tBodyGyroJerk.avg.iqrX
-tBodyGyroJerk.avg.iqrY
-tBodyGyroJerk.avg.iqrZ
-tBodyGyroJerk.avg.entropyX
-tBodyGyroJerk.avg.entropyY
-tBodyGyroJerk.avg.entropyZ
-tBodyGyroJerk.avg.arCoeffX,1
-tBodyGyroJerk.avg.arCoeffX,2
-tBodyGyroJerk.avg.arCoeffX,3
-tBodyGyroJerk.avg.arCoeffX,4
-tBodyGyroJerk.avg.arCoeffY,1
-tBodyGyroJerk.avg.arCoeffY,2
-tBodyGyroJerk.avg.arCoeffY,3
-tBodyGyroJerk.avg.arCoeffY,4
-tBodyGyroJerk.avg.arCoeffZ,1
-tBodyGyroJerk.avg.arCoeffZ,2
-tBodyGyroJerk.avg.arCoeffZ,3
-tBodyGyroJerk.avg.arCoeffZ,4
-tBodyGyroJerk.avg.correlationX,Y
-tBodyGyroJerk.avg.correlationX,Z
-tBodyGyroJerk.avg.correlationY,Z
+tBodyGyroJerk.avg.meanX			
+tBodyGyroJerk.avg.meanY			
+tBodyGyroJerk.avg.meanZ			
+tBodyGyroJerk.avg.stdX			
+tBodyGyroJerk.avg.stdY			
+tBodyGyroJerk.avg.stdZ			
+tBodyGyroJerk.avg.madX			
+tBodyGyroJerk.avg.madY			
+tBodyGyroJerk.avg.madZ			
+tBodyGyroJerk.avg.maxX			
+tBodyGyroJerk.avg.maxY			
+tBodyGyroJerk.avg.maxZ			
+tBodyGyroJerk.avg.minX			
+tBodyGyroJerk.avg.minY			
+tBodyGyroJerk.avg.minZ			
+tBodyGyroJerk.avg.sma			
+tBodyGyroJerk.avg.energyX			
+tBodyGyroJerk.avg.energyY			
+tBodyGyroJerk.avg.energyZ			
+tBodyGyroJerk.avg.iqrX			
+tBodyGyroJerk.avg.iqrY			
+tBodyGyroJerk.avg.iqrZ			
+tBodyGyroJerk.avg.entropyX			
+tBodyGyroJerk.avg.entropyY			
+tBodyGyroJerk.avg.entropyZ			
+tBodyGyroJerk.avg.arCoeffX,1			
+tBodyGyroJerk.avg.arCoeffX,2			
+tBodyGyroJerk.avg.arCoeffX,3			
+tBodyGyroJerk.avg.arCoeffX,4			
+tBodyGyroJerk.avg.arCoeffY,1			
+tBodyGyroJerk.avg.arCoeffY,2			
+tBodyGyroJerk.avg.arCoeffY,3			
+tBodyGyroJerk.avg.arCoeffY,4			
+tBodyGyroJerk.avg.arCoeffZ,1			
+tBodyGyroJerk.avg.arCoeffZ,2			
+tBodyGyroJerk.avg.arCoeffZ,3			
+tBodyGyroJerk.avg.arCoeffZ,4			
+tBodyGyroJerk.avg.correlationX,Y			
+tBodyGyroJerk.avg.correlationX,Z			
+tBodyGyroJerk.avg.correlationY,Z			
 
 
 	tBodyGyroJerk
@@ -316,19 +316,19 @@ tBodyGyroJerk.avg.correlationY,Z
 
 ---
 
-tBodyAccMag.avg.mean
-tBodyAccMag.avg.std
-tBodyAccMag.avg.mad
-tBodyAccMag.avg.max
-tBodyAccMag.avg.min
-tBodyAccMag.avg.sma
-tBodyAccMag.avg.energy
-tBodyAccMag.avg.iqr
-tBodyAccMag.avg.entropy
-tBodyAccMag.avg.arCoeff1
-tBodyAccMag.avg.arCoeff2
-tBodyAccMag.avg.arCoeff3
-tBodyAccMag.avg.arCoeff4
+tBodyAccMag.avg.mean			
+tBodyAccMag.avg.std			
+tBodyAccMag.avg.mad			
+tBodyAccMag.avg.max			
+tBodyAccMag.avg.min			
+tBodyAccMag.avg.sma			
+tBodyAccMag.avg.energy			
+tBodyAccMag.avg.iqr			
+tBodyAccMag.avg.entropy			
+tBodyAccMag.avg.arCoeff1			
+tBodyAccMag.avg.arCoeff2			
+tBodyAccMag.avg.arCoeff3			
+tBodyAccMag.avg.arCoeff4			
 
 
 	tBodyAccMag
@@ -341,19 +341,19 @@ tBodyAccMag.avg.arCoeff4
 ---
 
 
-tGravityAccMag.avg.mean
-tGravityAccMag.avg.std
-tGravityAccMag.avg.mad
-tGravityAccMag.avg.max
-tGravityAccMag.avg.min
-tGravityAccMag.avg.sma
-tGravityAccMag.avg.energy
-tGravityAccMag.avg.iqr
+tGravityAccMag.avg.mean			
+tGravityAccMag.avg.std			
+tGravityAccMag.avg.mad			
+tGravityAccMag.avg.max			
+tGravityAccMag.avg.min			
+tGravityAccMag.avg.sma			
+tGravityAccMag.avg.energy			
+tGravityAccMag.avg.iqr						
 tGravityAccMag.avg.entropy
-tGravityAccMag.avg.arCoeff1
-tGravityAccMag.avg.arCoeff2
-tGravityAccMag.avg.arCoeff3
-tGravityAccMag.avg.arCoeff4
+tGravityAccMag.avg.arCoeff1				
+tGravityAccMag.avg.arCoeff2			
+tGravityAccMag.avg.arCoeff3			
+tGravityAccMag.avg.arCoeff4			
 
 
 	tGravityAccMag
@@ -366,19 +366,19 @@ tGravityAccMag.avg.arCoeff4
 ---
 
 
-tBodyAccJerkMag.avg.mean
-tBodyAccJerkMag.avg.std
-tBodyAccJerkMag.avg.mad
-tBodyAccJerkMag.avg.max
-tBodyAccJerkMag.avg.min
-tBodyAccJerkMag.avg.sma
-tBodyAccJerkMag.avg.energy
-tBodyAccJerkMag.avg.iqr
-tBodyAccJerkMag.avg.entropy
-tBodyAccJerkMag.avg.arCoeff1
-tBodyAccJerkMag.avg.arCoeff2
-tBodyAccJerkMag.avg.arCoeff3
-tBodyAccJerkMag.avg.arCoeff4
+tBodyAccJerkMag.avg.mean			
+tBodyAccJerkMag.avg.std			
+tBodyAccJerkMag.avg.mad			
+tBodyAccJerkMag.avg.max			
+tBodyAccJerkMag.avg.min			
+tBodyAccJerkMag.avg.sma			
+tBodyAccJerkMag.avg.energy			
+tBodyAccJerkMag.avg.iqr			
+tBodyAccJerkMag.avg.entropy			
+tBodyAccJerkMag.avg.arCoeff1			
+tBodyAccJerkMag.avg.arCoeff2			
+tBodyAccJerkMag.avg.arCoeff3			
+tBodyAccJerkMag.avg.arCoeff4			
 
 
 	tBodyAccJerkMag
@@ -391,19 +391,19 @@ tBodyAccJerkMag.avg.arCoeff4
 ---
 
 
-tBodyGyroMag.avg.mean
-tBodyGyroMag.avg.std
-tBodyGyroMag.avg.mad
-tBodyGyroMag.avg.max
-tBodyGyroMag.avg.min
-tBodyGyroMag.avg.sma
-tBodyGyroMag.avg.energy
-tBodyGyroMag.avg.iqr
-tBodyGyroMag.avg.entropy
-tBodyGyroMag.avg.arCoeff1
-tBodyGyroMag.avg.arCoeff2
-tBodyGyroMag.avg.arCoeff3
-tBodyGyroMag.avg.arCoeff4
+tBodyGyroMag.avg.mean			
+tBodyGyroMag.avg.std			
+tBodyGyroMag.avg.mad			
+tBodyGyroMag.avg.max			
+tBodyGyroMag.avg.min			
+tBodyGyroMag.avg.sma			
+tBodyGyroMag.avg.energy			
+tBodyGyroMag.avg.iqr			
+tBodyGyroMag.avg.entropy			
+tBodyGyroMag.avg.arCoeff1			
+tBodyGyroMag.avg.arCoeff2			
+tBodyGyroMag.avg.arCoeff3			
+tBodyGyroMag.avg.arCoeff4			
 
 
 	tBodyGyroMag
@@ -416,19 +416,19 @@ tBodyGyroMag.avg.arCoeff4
 ---
 
 
-tBodyGyroJerkMag.avg.mean		numeric
-tBodyGyroJerkMag.avg.std		numeric
-tBodyGyroJerkMag.avg.mad		numeric
-tBodyGyroJerkMag.avg.max		numeric
-tBodyGyroJerkMag.avg.min		numeric
-tBodyGyroJerkMag.avg.sma		numeric
-tBodyGyroJerkMag.avg.energy		numeric
-tBodyGyroJerkMag.avg.iqr		numeric
-tBodyGyroJerkMag.avg.entropy		numeric
-tBodyGyroJerkMag.avg.arCoeff1		numeric
-tBodyGyroJerkMag.avg.arCoeff2		numeric
-tBodyGyroJerkMag.avg.arCoeff3		numeric
-tBodyGyroJerkMag.avg.arCoeff4		numeric
+tBodyGyroJerkMag.avg.mean				
+tBodyGyroJerkMag.avg.std				
+tBodyGyroJerkMag.avg.mad				
+tBodyGyroJerkMag.avg.max					
+tBodyGyroJerkMag.avg.min					
+tBodyGyroJerkMag.avg.sma					
+tBodyGyroJerkMag.avg.energy					
+tBodyGyroJerkMag.avg.iqr					
+tBodyGyroJerkMag.avg.entropy					
+tBodyGyroJerkMag.avg.arCoeff1					
+tBodyGyroJerkMag.avg.arCoeff2					
+tBodyGyroJerkMag.avg.arCoeff3					
+tBodyGyroJerkMag.avg.arCoeff4							
 
 	tBodyGyroJerkMag	
 	Average of measurements of the calculated magnitude of
