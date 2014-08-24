@@ -59,7 +59,7 @@ activity
 
 
 ---
-tBodyAcc.avg.meanX			numeric		
+tBodyAcc.avg.meanX                      numeric		
 tBodyAcc.avg.meanY			numeric		
 tBodyAcc.avg.meanZ			numeric
 	
@@ -169,143 +169,181 @@ fBodyGyro.avg.meanZ			numeric
 	body angular velocity derived in time.
 	(data is normalized and bounded within [-1,1])
 	
----				
+---	
+fBodyAccMag.avg.mean		numeric
+			
 	fBodyAccMag
 	Measurements of Fast Fourier Transform applied to
 	the magnitude of the body acceleration.
 	(data is normalized and bounded within [-1,1])
-fBodyAccMag.avg.mean		numeric		
----				
+		
+---	
+fBodyBodyAccJerkMag.avg.mean	numeric
+			
 	fBodyBodyAccJerkMag
 	Measurements of Fast Fourier Transform applied to
 	the magnitude of the body linear acceleration derived in time.
 	(data is normalized and bounded within [-1,1])	
-fBodyBodyAccJerkMag.avg.mean	numeric		
----				
+		
+---	
+fBodyBodyGyroMag.avg.mean		numeric
+			
 	fBodyBodyGyroMag
 	Measurements of Fast Fourier Transform applied to
 	the magnitude of the body angular velocity.
 	(data is normalized and bounded within [-1,1])
-fBodyBodyGyroMag.avg.mean		numeric		
----				
+		
+---	
+fBodyBodyGyroJerkMag.avg.mean	numeric	
+			
 	fBodyBodyGyroJerkMag
 	Measurements of Fast Fourier Transform applied to
 	the magnitude of the body angular velocity derived in time.
 	(data is normalized and bounded within [-1,1])
-fBodyBodyGyroJerkMag.avg.mean	numeric		
+	
 ---
-
+tBodyAcc.avg.stdX			numeric		
+tBodyAcc.avg.stdY			numeric		
+tBodyAcc.avg.stdZ			numeric	
 			
 	tBodyAcc
 	Measurements of the three-dimentional body acceleration,
 	separeted out from the accelerometer time domain signals.
 	(data is normalized and bounded within [-1,1])
-tBodyAcc.avg.stdX			numeric		
-tBodyAcc.avg.stdY			numeric		
-tBodyAcc.avg.stdZ			numeric		
----				
+	
+---
+tGravityAcc.avg.stdX		numeric		
+tGravityAcc.avg.stdY		numeric		
+tGravityAcc.avg.stdZ		numeric
+				
 	tGravityAcc
 	Measurements of the three-dimentional gravity acceleration,
 	separeted out from the accelerometer time domain signals.
 	(data is normalized and bounded within [-1,1])
-tGravityAcc.avg.stdX		numeric		
-tGravityAcc.avg.stdY		numeric		
-tGravityAcc.avg.stdZ		numeric		
----				
+		
+---
+tBodyAccJerk.avg.stdX		numeric		
+tBodyAccJerk.avg.stdY		numeric		
+tBodyAccJerk.avg.stdZ		numeric
+				
 	tBodyAccJerk
 	Measurements of the body linear acceleration derived in time.
 	(data is normalized and bounded within [-1,1])
-tBodyAccJerk.avg.stdX		numeric		
-tBodyAccJerk.avg.stdY		numeric		
-tBodyAccJerk.avg.stdZ		numeric		
----				
+		
+---
+tBodyGyro.avg.stdX			numeric		
+tBodyGyro.avg.stdY			numeric		
+tBodyGyro.avg.stdZ			numeric
+				
 	tBodyGyro
 	Measurements of the three-dimentional body angular velocity.
 	(data is normalized and bounded within [-1,1])
-tBodyGyro.avg.stdX			numeric		
-tBodyGyro.avg.stdY			numeric		
-tBodyGyro.avg.stdZ			numeric		
----				
+		
+---	
+tBodyGyroJerk.avg.stdX		numeric		
+tBodyGyroJerk.avg.stdY		numeric		
+tBodyGyroJerk.avg.stdZ		numeric
+			
 	tBodyGyroJerk
 	Measurements of the body angular velocity derived in time.
 	(data is normalized and bounded within [-1,1])
-tBodyGyroJerk.avg.stdX		numeric		
-tBodyGyroJerk.avg.stdY		numeric		
-tBodyGyroJerk.avg.stdZ		numeric		
----				
+		
+---	
+tBodyAccMag.avg.std			numeric	
+			
 	tBodyAccMag
 	Calculated magnitude of the body acceleration.
 	(data is normalized and bounded within [-1,1])
-tBodyAccMag.avg.std			numeric		
----				
+	
+---
+tGravityAccMag.avg.std		numeric	
+				
 	tGravityAccMag
 	Calculated magnitude of the gravity acceleration.
 	(data is normalized and bounded within [-1,1])
-tGravityAccMag.avg.std		numeric		
----				
+	
+---
+tBodyAccJerkMag.avg.std		numeric	
+				
 	tBodyAccJerkMag
 	Calculated magnitude of the body linear acceleration derived in time.
 	(data is normalized and bounded within [-1,1])
-tBodyAccJerkMag.avg.std		numeric		
----				
+	
+---
+tBodyGyroMag.avg.std		numeric	
+				
 	tBodyGyroMag
 	Calculated magnitude of the body angular velocity.
 	(data is normalized and bounded within [-1,1])
-tBodyGyroMag.avg.std		numeric		
----				
+	
+---
+tBodyGyroJerkMag.avg.std		numeric
+				
 	tBodyGyroJerkMag
 	Calculated magnitude of the body angular velocity derived in time.
 	(data is normalized and bounded within [-1,1])
-tBodyGyroJerkMag.avg.std		numeric		
+		
 ---
-
+fBodyAcc.avg.stdX			numeric		
+fBodyAcc.avg.stdY			numeric		
+fBodyAcc.avg.stdZ			numeric	
 				
 	fBodyAcc
 	Measurements of Fast Fourier Transform applied to body acceleration.
 	(data is normalized and bounded within [-1,1])
-fBodyAcc.avg.stdX			numeric		
-fBodyAcc.avg.stdY			numeric		
-fBodyAcc.avg.stdZ			numeric		
----				
+	
+---
+fBodyAccJerk.avg.stdX		numeric		
+fBodyAccJerk.avg.stdY		numeric		
+fBodyAccJerk.avg.stdZ		numeric	
+				
 	fBodyAccJerk
 	Measurements of Fast Fourier Transform applied to 
 	body acceleration derived in time.
 	(data is normalized and bounded within [-1,1])
-fBodyAccJerk.avg.stdX		numeric		
-fBodyAccJerk.avg.stdY		numeric		
-fBodyAccJerk.avg.stdZ		numeric		
----				
+	
+---
+fBodyGyro.avg.stdX			numeric		
+fBodyGyro.avg.stdY			numeric		
+fBodyGyro.avg.stdZ			numeric	
+				
 	fBodyGyro
 	Measurements of Fast Fourier Transform applied to 
 	body angular velocity derived in time.
 	(data is normalized and bounded within [-1,1])
-fBodyGyro.avg.stdX			numeric		
-fBodyGyro.avg.stdY			numeric		
-fBodyGyro.avg.stdZ			numeric		
----				
+	
+---
+fBodyAccMag.avg.std			numeric
+				
 	fBodyAccMag
 	Measurements of Fast Fourier Transform applied to
 	the magnitude of the body acceleration.
 	(data is normalized and bounded within [-1,1])
-fBodyAccMag.avg.std			numeric		
----				
+		
+---	
+fBodyBodyAccJerkMag.avg.std		numeric	
+			
 	fBodyBodyAccJerkMag
 	Measurements of Fast Fourier Transform applied to
 	the magnitude of the body linear acceleration derived in time.	
 	(data is normalized and bounded within [-1,1])
-fBodyBodyAccJerkMag.avg.std		numeric		
----				
+	
+---
+fBodyBodyGyroMag.avg.std		numeric	
+				
 	fBodyBodyGyroMag
 	Measurements of Fast Fourier Transform applied to
 	the magnitude of the body angular velocity.
 	(data is normalized and bounded within [-1,1])
-fBodyBodyGyroMag.avg.std		numeric		
----				
+	
+---
+fBodyBodyGyroJerkMag.avg.std	numeric
+				
 	fBodyBodyGyroJerkMag
 	Measurements of Fast Fourier Transform applied to
 	the magnitude of the body angular velocity derived in time.
 	(data is normalized and bounded within [-1,1])
-fBodyBodyGyroJerkMag.avg.std	numeric	
+	
 ---
 
 
