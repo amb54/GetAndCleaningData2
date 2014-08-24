@@ -64,7 +64,7 @@ testDataSet<-cbind(subject_test,y_testAct,X_test)
 
 
 ##--------------------------------------------------
-##Merging of the training and the test sets
+##Merging of the train and the test sets
 ##to create one data set
 ##----------------------
 
