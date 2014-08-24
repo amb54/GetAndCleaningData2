@@ -55,16 +55,14 @@ Two tidy data sets came out of this project.
 
 tidyDataAverage1:			
 This is the tidy data set created as a result from tasks 1 in the project instruction.
-The data was saved both as a .txt file and .csv file
-
+The data was saved both as a .txt file and .csv file			
 tidyDataAverage1.txt			
 tidyDataAverage1.csv
 			
 
 tidyDataAverage2:			
 This is the tidy data set created as a result from task 2-4 in the project instruction.
-The data was saved both as a .txt file and .csv file
-
+The data was saved both as a .txt file and .csv file			
 tidyDataAverage2.txt			
 tidyDataAverage2.csv
 
@@ -75,8 +73,8 @@ Code book
 ------------------------------
 The two data sets, tidyDataAverage1 and tidyDataAverage2, comes with two separate code books
 
-CodeBook_tidyDataAverage1.md			
-CodeBook_tidyDataAverage2.md
+CodeBook1.md			
+CodeBook2.md
 
 These code books describe the variables, the data and the transformations performed to tidy up the variable names.
 
@@ -87,6 +85,7 @@ Project implementation
 ------------------------------
 
 Part 1-4: The implementation took into account all four requirements, but not in that specific order.
+--
 
 The following files were read into R
 
@@ -139,7 +138,7 @@ The data frame was then ordered by first the value “activity”, and second the va
 
 
 Part 5
-
+--
 --tidyDataAverage1
 
 This is the tidy data set created as a result from tasks 1 in the project instruction.
@@ -161,7 +160,7 @@ tidyDataAverage1.txt
 tidyDataAverage1.csv
 
 			
-
+--
 --tidyDataAverage2
 
 This is the tidy data set created as a result from task 2-4 in the project description.
