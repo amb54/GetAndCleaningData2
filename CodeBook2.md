@@ -31,7 +31,7 @@ VARIABLES
 
 subject	
 
-	30 volonteers, age 19-48
+	30 volunteers, age 19-48
 
 	integer
 	(1 to 30)
