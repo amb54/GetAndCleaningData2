@@ -61,7 +61,8 @@ activity
 ---
 tBodyAcc.avg.meanX			numeric		
 tBodyAcc.avg.meanY			numeric		
-tBodyAcc.avg.meanZ			numeric	
+tBodyAcc.avg.meanZ			numeric
+	
 	tBodyAcc
 	Measurements of the three-dimentional body acceleration,
 	separeted out from the accelerometer time domain signals.
@@ -70,15 +71,18 @@ tBodyAcc.avg.meanZ			numeric
 ---	
 tGravityAcc.avg.meanX		numeric		
 tGravityAcc.avg.meanY		numeric		
-tGravityAcc.avg.meanZ		numeric				
+tGravityAcc.avg.meanZ		numeric	
+			
 	tGravityAcc
 	Measurements of the three-dimentional gravity acceleration,
 	separeted out from the accelerometer time domain signals
-	(data is normalized and bounded within [-1,1])		
+	(data is normalized and bounded within [-1,1])	
+	
 ---	
 tBodyAccJerk.avg.meanX		numeric		
 tBodyAccJerk.avg.meanY		numeric		
-tBodyAccJerk.avg.meanZ		numeric				
+tBodyAccJerk.avg.meanZ		numeric	
+			
 	tBodyAccJerk
 	Measurements of the body linear acceleration derived in time.
 	(data is normalized and bounded within [-1,1])
