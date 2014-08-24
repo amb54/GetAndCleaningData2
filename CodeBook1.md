@@ -48,16 +48,17 @@ activity
 	LAYING
 	
 
---
+---
 subject	
-	Group of 30 volonteers
+
+	Group of 30 volunteers
 	Age 19-48
 
 	integer
 	(1 to 30)
 	
 
---			
+---			
 tBodyAcc.avg.meanX
 tBodyAcc.avg.meanY
 tBodyAcc.avg.meanZ
@@ -107,7 +108,7 @@ tBodyAcc.avg.correlationY,Z
 	numeric
 	(data is normalized and bounded within [-1,1])
 
---
+---
 
 
 
@@ -160,7 +161,7 @@ tGravityAcc.avg.correlationY,Z
 	numeric
 	(data is normalized and bounded within [-1,1])
 
---
+---
 
 tBodyAccJerk.avg.meanX
 tBodyAccJerk.avg.meanY
@@ -211,7 +212,7 @@ tBodyAccJerk.avg.correlationY,Z
 	numeric
 	(data is normalized and bounded within [-1,1])
 
---
+---
 
 tBodyGyro.avg.meanX
 tBodyGyro.avg.meanY
@@ -262,7 +263,7 @@ tBodyGyro.avg.correlationY,Z
 	numeric
 	(data is normalized and bounded within [-1,1])
 
---
+---
 
 
 tBodyGyroJerk.avg.meanX
@@ -313,7 +314,7 @@ tBodyGyroJerk.avg.correlationY,Z
 	numeric
 	(data is normalized and bounded within [-1,1])
 
---
+---
 
 tBodyAccMag.avg.mean
 tBodyAccMag.avg.std
@@ -337,7 +338,7 @@ tBodyAccMag.avg.arCoeff4
 	numeric
 	(data is normalized and bounded within [-1,1])
 
---
+---
 
 
 tGravityAccMag.avg.mean
@@ -362,7 +363,7 @@ tGravityAccMag.avg.arCoeff4
 	numeric
 	(data is normalized and bounded within [-1,1])
 
---
+---
 
 
 tBodyAccJerkMag.avg.mean
@@ -387,7 +388,7 @@ tBodyAccJerkMag.avg.arCoeff4
 	numeric
 	(data is normalized and bounded within [-1,1])
 
---
+---
 
 
 tBodyGyroMag.avg.mean
@@ -412,7 +413,7 @@ tBodyGyroMag.avg.arCoeff4
 	numeric
 	(data is normalized and bounded within [-1,1])
 
---
+---
 
 
 tBodyGyroJerkMag.avg.mean		numeric
@@ -436,10 +437,10 @@ tBodyGyroJerkMag.avg.arCoeff4		numeric
 	numeric
 	(data is normalized and bounded within [-1,1])
 
---
+---
 
 
-	numeric
+
 fBodyAcc.avg.meanX			
 fBodyAcc.avg.meanY			
 fBodyAcc.avg.meanZ			
@@ -499,7 +500,7 @@ fBodyAcc.avg.bandsEnergy25,48
 	numeric
 	(data is normalized and bounded within [-1,1])
 
---
+---
 
 
 fBodyAccJerk.avg.meanX			
@@ -561,7 +562,7 @@ fBodyAccJerk.avg.bandsEnergy25,48
 	numeric
 	(data is normalized and bounded within [-1,1])
 
---
+---
 
 
 fBodyGyro.avg.meanX			
@@ -623,7 +624,7 @@ fBodyGyro.avg.bandsEnergy25,48
 	numeric
 	(data is normalized and bounded within [-1,1])
 
---
+---
 
 
 fBodyAccMag.avg.mean			
@@ -647,7 +648,7 @@ fBodyAccMag.avg.kurtosis
 	numeric
 	(data is normalized and bounded within [-1,1])
 
---
+---
 
 
 fBodyBodyAccJerkMag.avg.mean		
@@ -671,7 +672,7 @@ fBodyBodyAccJerkMag.avg.kurtosis
 	numeric
 	(data is normalized and bounded within [-1,1])
 
---
+---
 
 
 fBodyBodyGyroMag.avg.mean		
@@ -695,7 +696,7 @@ fBodyBodyGyroMag.avg.kurtosis
 	numeric
 	(data is normalized and bounded within [-1,1])
 
---
+---
 
 
 	
@@ -720,7 +721,7 @@ fBodyBodyGyroJerkMag.avg.kurtosis
 	numeric
 	(data is normalized and bounded within [-1,1])
 
---
+---
 
 
 
@@ -750,7 +751,7 @@ fBodyBodyGyroJerkMag.avg.kurtosis
 	avg:		average calculated over the estimations done on
 			the signals
 
---
+---
 
 
 angle(tBodyAccMean,gravity)		
@@ -766,7 +767,7 @@ angle(Z,gravityMean)
 	(data is normalized and bounded within [-1,1])
 	numeric
 
---
+---
 	Vectors obtained by averaging the signals in a signal window sample.
 	gravityMean
 	tBodyAccMean
