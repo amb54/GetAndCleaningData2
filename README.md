@@ -163,7 +163,7 @@ tidyDataAverage1.csv
 
 			
 --
---tidyDataAverage2
+--tidyDataAverage2		
 
 This is the tidy data set created as a result from task 2-4 in the project description.
 
@@ -175,8 +175,5 @@ To denote that the data now are the average avg was added to the feature variabl
 The data set was the written to both .csv and .txt			
 tidyDataAverage2.txt			
 tidyDataAverage2.csv
-
-
-
 
 
