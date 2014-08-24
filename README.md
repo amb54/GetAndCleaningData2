@@ -12,15 +12,11 @@ The task in this project was given as follows:
 
  Create one R script called run_analysis.R that does the following. 
 
-1. Merges the training and the test sets to create one data set.
-
-2. Extracts only the measurements on the mean and standard deviation for each measurement. 
-
-3. Uses descriptive activity names to name the activities in the data set
-
-4. Appropriately labels the data set with descriptive variable names. 
-
-5. Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+1. Merges the training and the test sets to create one data set.			
+2. Extracts only the measurements on the mean and standard deviation for each measurement.			 
+3. Uses descriptive activity names to name the activities in the data set.			
+4. Appropriately labels the data set with descriptive variable names. 			
+5. Creates a second, independent tidy data set with the average of each variable for each activity and each subject.			
 
 
 
@@ -57,20 +53,19 @@ Output data
 ----------------------------
 Two tidy data sets came out of this project.
 
-tidyDataAverage1: 
+tidyDataAverage1:			
 This is the tidy data set created as a result from tasks 1 in the project instruction.
 The data was saved both as a .txt file and .csv file
 
-tidyDataAverage1.txt
-
+tidyDataAverage1.txt			
 tidyDataAverage1.csv
+			
 
-tidyDataAverage2: 
+tidyDataAverage2:			
 This is the tidy data set created as a result from task 2-4 in the project instruction.
 The data was saved both as a .txt file and .csv file
 
-tidyDataAverage2.txt
-
+tidyDataAverage2.txt			
 tidyDataAverage2.csv
 
 
@@ -80,8 +75,7 @@ Code book
 ------------------------------
 The two data sets, tidyDataAverage1 and tidyDataAverage2, comes with two separate code books
 
-CodeBook_tidyDataAverage1.md
-
+CodeBook_tidyDataAverage1.md			
 CodeBook_tidyDataAverage2.md
 
 These code books describe the variables, the data and the transformations performed to tidy up the variable names.
@@ -111,11 +105,11 @@ Two data frames, later to be merged, was created; trainDataSet and testDataSet.
 
 Both went through the same sequence:
 
-1-A column was added to the label file (train/y_train.txt, test/y_test.txt) to set the descriptive activity labels. This was done by using the data in the file activity_labels.txt.
+1- A column was added to the label file (train/y_train.txt, test/y_test.txt) to set the descriptive activity labels. This was done by using the data in the file activity_labels.txt.
 
-2-This new column was transformed to a data frame.
+2- This new column was transformed to a data frame.
 
-3-This data frame was then merged by column with the data for the X-sets and the subjects
+3- This data frame was then merged by column with the data for the X-sets and the subjects
 
 --
 
@@ -127,19 +121,16 @@ Add variable names to the data frame mergedDataSet by using data from features.t
 
 The variables for mean and standard deviation was extracted. In this case the specific definition for mean and standard deviation described in features_info.txt obtained from Anguita’s et.al. README file was used.
 
-mean(): Mean value
-
+mean(): Mean value			
 std(): Standard deviation
 
 --
 
 The variable names were tidied up by
 
-1-Removing “()”
-
-2-Change the first “-“ in a string to “.”
-
-3-Remove all the rest “-“ in a string
+1-Removing “()”			
+2-Change the first “-“ in a string to “.”			
+3-Remove all the rest “-“ in a string			
 
 The data frame was then ordered by first the value “activity”, and second the value “subject”
 
@@ -161,32 +152,27 @@ Correct variable names were set, using data from features.txt in addition to “su
 
 The variable names were also in this case tidied up
 
-1-Removing “()”
-
-2-Change the first “-“ in a string to “.avg.” to denote that the variable now is a average
-
+1-Removing “()”			
+2-Change the first “-“ in a string to “.avg.” to denote that the variable now is a average			
 3-Remove all the rest “-“ in a string
 
-The data set was the written to both .csv and .txt
-
-tidyDataAverage1.txt
-
+The data set was the written to both .csv and .txt			
+tidyDataAverage1.txt			
 tidyDataAverage1.csv
 
+			
 
 --tidyDataAverage2
 
 This is the tidy data set created as a result from task 2-4 in the project description.
 
-The data was melt to a long format and cast to calculate the average of each variable for each activity and each subject.
+The data was melt to a long format and cast to calculate the average of each variable for each activity and each subject.			
 (No issue with duplicates)
 
 To denote that the data now are the average avg was added to the feature variable names.
 
-The data set was the written to both .csv and .txt
-
-tidyDataAverage2.txt
-
+The data set was the written to both .csv and .txt			
+tidyDataAverage2.txt			
 tidyDataAverage2.csv
 
 
